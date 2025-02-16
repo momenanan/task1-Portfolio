@@ -178,7 +178,7 @@ header {
     .navbar {
         display: none;
         flex-direction: column;
-        background: rgba(89, 56, 198, 0.648);
+        background: rgba(255, 255, 255, 0.1);
         position: absolute;
         top: 60px;
         right: 0;

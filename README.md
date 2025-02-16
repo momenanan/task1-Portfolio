@@ -15,3 +15,24 @@ This is a **personal website** that I have created and developed from scratch us
 ✅ **Contact the developer via a form or email link** → Inquire about potential collaboration.  
 ✅ **Access the website on mobile and desktop devices** → Have a seamless experience across different screens.  
 ✅ **Find links to social media profiles** → Follow or connect with the developer.  
+
+---
+
+## 🌍 Live Demo  
+🔗 **Live link to the deployed application:** [Portfolio Website](https://momenanan.github.io/task1-Portfolio/)  
+
+---
+
+## 🛠️ How to Run the Project Locally  
+
+### ** Prerequisites**  
+Before running the project, ensure you have the following installed on your system:  
+- A modern web browser (Chrome, Firefox, Edge, etc.)  
+- A code editor (VS Code, Sublime Text, etc.)  
+- Git (optional, for cloning the repository)  
+
+### ** Clone the Repository**  
+Open your terminal and run the following command:  
+
+```bash
+git clone https://github.com/momenanan/task1-Portfolio.git

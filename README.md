@@ -19,7 +19,7 @@ This is a **personal website** that I have created and developed from scratch us
 ---
 
 ## 🌍 Live Demo  
-🔗 **Live link to the deployed application:** [Portfolio Website](https://momenanan.github.io/task1-Portfolio/main.htmll)  
+🔗 **Live link to the deployed application:** [Portfolio Website](https://momenanan.github.io/task1-Portfolio/main.html)  
 
 ---
 

@@ -15,4 +15,3 @@ function toggleMenu() {
     navbar.style.display = (navbar.style.display === 'block') ? 'none' : 'block';
 }
 
-
